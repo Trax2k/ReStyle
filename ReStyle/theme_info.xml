@@ -11,7 +11,7 @@
 <!-- Author: your email address or contact information. The name attribute is optional. -->
 <author name="Simple Machines">jplant01@gmail.com</author>
 <!-- Website... where to get updates and more information. -->
-<website>https://www.hostpas.com/</website>
+<website>https://www.simpleforums.net/</website>
 <!-- Template layers to use, defaults to "html,body". -->
 <layers>html,body</layers>
 <!-- Templates to load on startup. Default is "index". -->

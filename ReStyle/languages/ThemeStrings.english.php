@@ -8,5 +8,5 @@ $txt['google_url'] = 'Your Google+ URL';
 $txt['rss_url'] = 'RSS URL';
 
 $txt['smart_rights'] = 'Theme created by';
-$txt['smart_link'] = 'HostPas';
+$txt['smart_link'] = 'Simple Forums';
 ?>
